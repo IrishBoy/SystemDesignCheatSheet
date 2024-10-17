@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "375c6c427e75ebd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d81e2a514015d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "474a065b795169b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d35c04b81d99f7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7913b5fb0d8ef29f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c961b3e15f91b2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0caddd142b43ba70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa0b7ec3a784522f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "081d3bf3ea0daa79",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b2469bb27d9c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e14258bbaa6798",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b57da43711172597",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cdfa67749a11fa8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b3b0e5723f9a8a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "474a065b795169b4",
+  "lastOpenFiles": [
+    "1. Distributed Architecture/2.Logic Separation/2.Logic separation.md",
+    "1. Distributed Architecture/1.Integrations/Additional Materials.md",
+    "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Expert Part.md",
+    "1. Distributed Architecture/1.Integrations/1.Integrations.md",
+    "1. Distributed Architecture/2.Logic Separation/CQRS.md",
+    "1. Distributed Architecture/2.Logic Separation/SAGA.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
+    "1. Distributed Architecture/1. Distributed Architecture.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/2.Average Part.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/1.Basic Part.md"
+  ]
+}
