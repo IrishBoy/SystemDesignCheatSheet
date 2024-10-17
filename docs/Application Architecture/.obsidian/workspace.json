@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md"
               }
             }
           }
@@ -148,13 +148,28 @@
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
+    "Files/Req diagram.png",
+    "Files/Drawing 2024-09-17 00.04.01.excalidraw.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
+    "1. Distributed Architecture/1.Integrations/3.Expert Part/9.Nats.md",
+    "Files/Pasted image 20241016222559.png",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/4.Pub-sub vs message queue.md",
+    "Files/NatsOverall.png",
+    "Files/Nats.png",
+    "Files/ESB.png",
+    "Files/Arthemis2.png",
+    "Files/Arthemis.png",
+    "Files/KafkaVSRabbitVSActive.png",
+    "Files/ApacheThrift.png",
+    "Files/Websockets.png",
+    "Introduction.md",
+    "Pasted image 20241017105214.png",
     "1. Distributed Architecture/2.Logic Separation/2.Logic separation.md",
     "1. Distributed Architecture/1.Integrations/Additional Materials.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Expert Part.md",
     "1. Distributed Architecture/1.Integrations/1.Integrations.md",
     "1. Distributed Architecture/2.Logic Separation/CQRS.md",
     "1. Distributed Architecture/2.Logic Separation/SAGA.md",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
     "1. Distributed Architecture/1. Distributed Architecture.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/2.Average Part.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/1.Basic Part.md"
