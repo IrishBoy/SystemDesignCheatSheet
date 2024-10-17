@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md",
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/8.ActiveMQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md",
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/8.ActiveMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md",
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/8.ActiveMQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md"
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/8.ActiveMQ.md"
               }
             }
           }
@@ -146,19 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c961b3e15f91b2d",
+  "active": "474a065b795169b4",
   "lastOpenFiles": [
-    "1. Distributed Architecture/99.Additional Materials/4.Additional Materials.md",
+    "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Apache Thrift.md",
+    "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/5. ESB.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/3.RabbitMQ.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/1.Web Sockets.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/2.gRPC.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/4.Pub-sub vs message queue.md",
     "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md",
+    "1. Distributed Architecture/99.Additional Materials/4.Additional Materials.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
     "Pasted image 20241017144631.png",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/4.Pub-sub vs message queue.md",
     "Pasted image 20241017144616.png",
     "Pasted image 20241017144604.png",
     "Pasted image 20241017144500.png",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Apache Thrift.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/2.Short polling VS  Long polling.md",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
     "Additional materials/Raft protocol.md",
     "Files/Untitled 5 3.png",
     "Files/Untitled 4 5.png",
@@ -166,23 +170,19 @@
     "Files/Untitled 2 6.png",
     "Files/Untitled 1 7.png",
     "Files/Untitled 20.png",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/3.RabbitMQ.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/5.kafka.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/2.gRPC.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/1.REST.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/9.Nats.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/8.ActiveMQ.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/2.Web hooks and Polling.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/4. SDK.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/5. ESB.md",
     "Files/Drawing 2024-09-17 00.04.01.excalidraw.md",
     "Introduction.md",
     "1. Distributed Architecture/2.Logic Separation/2.Logic separation.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Expert Part.md",
     "1. Distributed Architecture/1.Integrations/1.Integrations.md",
     "1. Distributed Architecture/2.Logic Separation/CQRS.md",
-    "1. Distributed Architecture/2.Logic Separation/SAGA.md",
-    "1. Distributed Architecture/1. Distributed Architecture.md"
+    "1. Distributed Architecture/2.Logic Separation/SAGA.md"
   ]
 }
