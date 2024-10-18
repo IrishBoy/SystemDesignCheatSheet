@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
+                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
+                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
+                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md"
+                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
+    "1. Distributed Architecture/2.Logic Separation/5.DDD.md",
+    "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
+    "1. Distributed Architecture/2.Logic Separation/4.EDA.md",
+    "1. Distributed Architecture/2.Logic Separation/3.MSA.md",
+    "1. Distributed Architecture/2.Logic Separation/2.SOA.md",
+    "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/2.gRPC.md",
     "Files/restvsgrpc.png",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/5.kafka.md",
@@ -173,15 +180,9 @@
     "Files/Untitled 3 5.png",
     "Files/Untitled 2 6.png",
     "Files/Untitled 1 7.png",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/1.REST.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/9.Nats.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/2.Web hooks and Polling.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/4. SDK.md",
-    "Files/Drawing 2024-09-17 00.04.01.excalidraw.md",
-    "1. Distributed Architecture/2.Logic Separation/2.Logic separation.md",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Expert Part.md",
-    "1. Distributed Architecture/1.Integrations/1.Integrations.md",
-    "1. Distributed Architecture/2.Logic Separation/CQRS.md"
+    "1. Distributed Architecture/1.Integrations/2.Average Part/4. SDK.md"
   ]
 }
