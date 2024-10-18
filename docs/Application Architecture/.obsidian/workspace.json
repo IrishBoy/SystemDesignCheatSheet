@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
+                "file": "2.Data/Data Vault.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
+                "file": "2.Data/Data Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
+                "file": "2.Data/Data Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Distributed Architecture/2.Logic Separation/0.Introduction.md"
+                "file": "2.Data/Data Vault.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
-    "1. Distributed Architecture/2.Logic Separation/5.DDD.md",
     "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
+    "2.Data/Data Vault.md",
+    "1. Distributed Architecture/2.Logic Separation/5.DDD.md",
     "1. Distributed Architecture/2.Logic Separation/4.EDA.md",
     "1. Distributed Architecture/2.Logic Separation/3.MSA.md",
     "1. Distributed Architecture/2.Logic Separation/2.SOA.md",
@@ -182,7 +183,6 @@
     "Files/Untitled 1 7.png",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/1.REST.md",
     "1. Distributed Architecture/1.Integrations/3.Expert Part/9.Nats.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/2.Web hooks and Polling.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/4. SDK.md"
+    "1. Distributed Architecture/1.Integrations/2.Average Part/2.Web hooks and Polling.md"
   ]
 }
