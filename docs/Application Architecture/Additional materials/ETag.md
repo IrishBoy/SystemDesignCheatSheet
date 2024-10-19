@@ -1,0 +1,3 @@
+An **ETag** (Entity Tag) is a unique identifier assigned by a web server to a specific version of a resource, typically used for caching and conditional requests. When a resource (like a webpage, image, or file) is served, the server generates an ETag and sends it in the `ETag` header of the response.
+
+If the client caches the resource, it also stores the ETag. When the client later requests the same resource, it can include the `If-None-Match` header with the ETag value. This tells the server to return the resource only if it has changed (i.e., if the ETag doesn't match). If the resource is unchanged, the server responds with a `304 Not Modified` status, allowing the client to use its cached version, which saves bandwidth and reduces load times

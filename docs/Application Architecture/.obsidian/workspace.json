@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md",
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md",
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md",
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md"
+                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md"
               }
             }
           }
@@ -148,38 +148,41 @@
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
-    "1. Distributed Architecture/2.Logic Separation/CQRS.md",
+    "7.Languages/Untitled.md",
+    "7.Languages/Full Stack",
+    "7.Languages/Frontend",
+    "7.Languages/Backend",
+    "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
+    "7.Languages",
+    "Additional materials/Raft protocol.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/5. ESB.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/4. SDK.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/3.RabbitMQ.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/2.Web hooks and Polling.md",
+    "1. Distributed Architecture/1.Integrations/2.Average Part/1.Web Sockets.md",
+    "5.Network/Firewall.md",
+    "5.Network/Proxy.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/5.kafka.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/4.Pub-sub vs message queue.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/2.gRPC.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/1.REST.md",
+    "Additional materials/ETag.md",
+    "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
+    "Additional materials/(A)Sync.md",
     "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md",
+    "1. Distributed Architecture/2.Logic Separation/CQRS.md",
     "1. Distributed Architecture/1.Integrations/4.Cases",
     "1. Distributed Architecture/2.Logic Separation/SAGA.md",
     "1. Distributed Architecture/2.Logic Separation/5.DDD.md",
     "1. Distributed Architecture/2.Logic Separation/4.EDA.md",
     "1. Distributed Architecture/2.Logic Separation/3.MSA.md",
     "1. Distributed Architecture/2.Logic Separation/2.SOA.md",
-    "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
-    "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
-    "Introduction.md",
-    "2.Data/Data Vault.md",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/3.graphQL.md",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/2.gRPC.md",
     "Files/restvsgrpc.png",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/5.kafka.md",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
     "Files/Pasted image 20241017144631.png",
     "Files/Pasted image 20241017144604.png",
     "Pasted image 20241017144500.png",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/8.ActiveMQ.md",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/3.Apache Thrift.md",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/5. ESB.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/3.RabbitMQ.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/1.Web Sockets.md",
-    "1. Distributed Architecture/1.Integrations/1.Basic Part/4.Pub-sub vs message queue.md",
-    "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md",
-    "1. Distributed Architecture/99.Additional Materials/4.Additional Materials.md",
     "Files/Pasted image 20241017144616.png",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/2.Short polling VS  Long polling.md",
-    "Additional materials/Raft protocol.md",
     "Files/Untitled 5 3.png",
     "Files/Untitled 4 5.png",
     "Files/Untitled 3 5.png",
