@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
+                "file": "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
+                "file": "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
+                "file": "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md"
+                "file": "1. Distributed Architecture/2.Logic Separation/1.Monolith.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
+    "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
+    "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md",
+    "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
     "7.Languages/Untitled.md",
     "7.Languages/Full Stack",
     "7.Languages/Frontend",
     "7.Languages/Backend",
-    "1. Distributed Architecture/1.Integrations/3.Expert Part/1.RedPanda.md",
     "7.Languages",
     "Additional materials/Raft protocol.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/5. ESB.md",
@@ -170,7 +172,6 @@
     "Additional materials/ETag.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
     "Additional materials/(A)Sync.md",
-    "1. Distributed Architecture/1.Integrations/4.Cases/1.POST as GET.md",
     "1. Distributed Architecture/2.Logic Separation/CQRS.md",
     "1. Distributed Architecture/1.Integrations/4.Cases",
     "1. Distributed Architecture/2.Logic Separation/SAGA.md",
