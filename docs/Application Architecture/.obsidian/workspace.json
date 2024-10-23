@@ -160,15 +160,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-importer:Open Importer": false,
+      "sheet-plus:Create excel file": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
+    "Files/Monolith.png",
+    "Excalidraw/Monolith.excalidraw.md",
+    "Excalidraw/Monolith.excalidraw.svg",
+    "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
+    "Pasted image 20241023181230.png",
+    "Excalidraw/Monolith.excalidraw.png",
     "1. Distributed Architecture/2.Logic Separation/0.Introduction.md",
     "2.Data/1.Database Types/0. 12 Database types.md",
-    "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
-    "Excalidraw/Monolith.excalidraw.md",
     "Excalidraw",
     "1. Distributed Architecture/99.Additional Materials/4.Additional Materials.md",
     "1. Distributed Architecture/99.Additional Materials/99.Additional Materials.md",
@@ -195,7 +205,6 @@
     "1. Distributed Architecture/1.Integrations/1.Basic Part/1.REST.md",
     "Additional materials/ETag.md",
     "1. Distributed Architecture/1.Integrations/1.Basic Part/0. Request Response.md",
-    "Additional materials/(A)Sync.md",
     "1. Distributed Architecture/1.Integrations/4.Cases",
     "Files/restvsgrpc.png",
     "Files/Pasted image 20241017144631.png",
@@ -203,9 +212,6 @@
     "Pasted image 20241017144500.png",
     "Files/Pasted image 20241017144616.png",
     "Files/Untitled 5 3.png",
-    "Files/Untitled 4 5.png",
-    "Files/Untitled 3 5.png",
-    "Files/Untitled 2 6.png",
-    "Files/Untitled 1 7.png"
+    "Files/Untitled 4 5.png"
   ]
 }
