@@ -11,14 +11,12 @@
             "id": "474a065b795169b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Pasted image 20241024163629.png"
               },
-              "icon": "lucide-file",
-              "title": "1.Monolith"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241024163629"
             }
           },
           {
@@ -185,17 +183,17 @@
   },
   "active": "474a065b795169b4",
   "lastOpenFiles": [
-    "1. Distributed Architecture/2.Logic Separation/2.SOA.md",
-    "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
-    "1. Distributed Architecture/99.Additional Materials/1. Cohesion and Coupeling.md",
     "1. Cohesion and Coupeling].md",
-    "Pasted image 20241024163629.png",
-    "Pasted image 20241024163341.png",
-    "Pasted image 20241024163333.png",
+    "Files/Pasted image 20241024163629.png",
+    "Files/Pasted image 20241024163341.png",
+    "Files/Pasted image 20241024163333.png",
+    "2.Data/999.Additional info/ACID.md",
+    "2.Data/999.Additional info/Persistant Data.md",
+    "1. Distributed Architecture/2.Logic Separation/1.Monolith.md",
+    "1. Distributed Architecture/2.Logic Separation/2.SOA.md",
+    "1. Distributed Architecture/99.Additional Materials/1. Cohesion and Coupeling.md",
     "1. Distributed Architecture/2.Logic Separation/4.EDA.md",
     "2.Data/1.Database Types/0. 12 Database types.md",
-    "2.Data/999.Additional info/Persistant Data.md",
-    "2.Data/999.Additional info/ACID.md",
     "1. Distributed Architecture/4.Authorisation/0. Authentication vs Authorisation.md",
     "2.Data/999.Additional info",
     "2.Data/Untitled.md",
@@ -223,7 +221,6 @@
     "Additional materials/Raft protocol.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/5. ESB.md",
     "1. Distributed Architecture/1.Integrations/2.Average Part/4. SDK.md",
-    "1. Distributed Architecture/1.Integrations/2.Average Part/3.RabbitMQ.md",
     "1. Distributed Architecture/1.Integrations/4.Cases",
     "Files/restvsgrpc.png",
     "Files/Pasted image 20241017144631.png",
